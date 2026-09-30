@@ -1,4 +1,4 @@
-# 📱 Bài tập Flutter: 9 Labs — Minh Nghĩa (23IT.B138)
+# 📱 Bài tập Flutter: 9 Labs — Trọng Khải (23IT.B090)
 
 Dự án gồm các bài thực hành Lab 1 đến Lab 9 trong chương trình phát triển ứng dụng di động với Flutter.
 
